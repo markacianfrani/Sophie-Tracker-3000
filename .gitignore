@@ -1,6 +1,10 @@
-/bootstrap/compiled.php
+/public
+public
+uploads
+/node_modules
+/public/storage
+/storage/*.key
 /vendor
-composer.phar
-.DS_Store
-.vagrant
-Berksfile.lock
+/.idea
+Homestead.json
+Homestead.yaml
